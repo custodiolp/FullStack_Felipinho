@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+}
+h1:hover{
+    background-color: rgba(101, 142, 165, 0.356);
+}
+#titulo {
+    text-align: center;
+    font-size: 40pt;
+    background-color: gray;
+}
+    
+    
+#foto {
+    text-align: center;
+    background-color: gray;
+     border-radius: 10px 10px;
+    border: 2px solid black;
+}
+#minhafoto {
+    border-radius: 10px 10px;
+    border: 2px solid black;
+}
+#txt1{
+    text-align: center;
+}
+#sub {
+    font-size: 30pt;
+    color: black;
+}
