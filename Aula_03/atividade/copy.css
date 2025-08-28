@@ -1,0 +1,69 @@
+
+body{
+    background-color: lightgray;
+}
+
+
+#topo{
+    
+    background-color: bisque;
+    border: solid;
+}
+
+#titulo {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    color: darkgreen;
+    font-size: 30pt;
+}
+
+.c {
+    position: relative;
+    left: 10px;
+    display: inline;
+    width: 200px;
+    height: 200px;
+    top: -50px;
+}
+
+.java {
+    position: relative;
+    display: inline;
+    right: -1460px;
+    width: 200px;
+    height: 200px;
+    top: -50px;
+}
+
+#links{
+    padding: 20px;
+    text-align: center;
+   background-color: lightskyblue;
+}
+
+#txt1{
+    text-align: center;
+}
+#p1{
+   font-size: 20pt;
+   color:purple
+}
+#p2{
+    font-size: 20pt;
+    color:purple
+}
+
+#p3{
+    font-size: 20pt;
+    color:purple
+}
+
+#livros{
+    text-align: center;
+}
+
+#imagens{
+
+}
+  
