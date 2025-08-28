@@ -1,0 +1,74 @@
+p {
+    border-radius: 20px;
+    box-shadow: 3px 3px black;
+    display: inline;
+}
+
+.sold{
+    border-style: solid;
+}
+
+.dotted{
+    border-style: dotted;
+}
+
+.dashed{
+    border-style: dashed;
+}
+
+.double{
+    border-style: double;
+}
+
+#d1{
+    background-color: darkgray;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    padding: 30px;
+    margin: 30px;
+}
+
+#d2{
+    display: inline;
+}
+
+#s1{
+    display: block;
+}
+
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.inline{
+    display: inline;
+}
+
+.padd_10{
+    padding: 10px;
+}
+#d3{
+    position: relative;
+    z-index: -1;
+    top: 40px;
+    left: 40px;
+}
+#d4{
+    position: absolute;
+    z-index: -1;
+    top: 40px;
+    left: 40px;
+}
+#d5{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
