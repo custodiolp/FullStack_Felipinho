@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(255, 248, 204);
+    border: solid 1px;
+}
+
+#topo{
+   background-color: bisque;
+}
+#titulo {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    font-size: 40pt;
+    background-color: bisque;
+}
+#minhafoto {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 780px;
+    top: -120px;
+    border-radius: 80px 80px 80px 80px;
+    border: 2px solid black; 
+}
+#menu{
+    display: block;
+    position: relative;
+    left: 810px;
+    top: -30px;
+    font-size: 15pt;
+}   
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#txt1{
+    position: relative;
+    font-size: 17pt;
+    left: 500px;
+    top: 100px
+}
+#ibbvr{
+    position: relative;
+    top: -150px;
+    left: 70px;
+    width: 300px;
+    height: 300px;
+    border-radius: 40px 40px;
+}
+#cttibbvr{
+    position: relative;
+    left: 90px;
+    top: -480px;
+}
+#txt2{
+    position: relative;
+    left: 550px;
+    top: -120px;
+    font-size: 17pt;
+}
+#p1{
+    position: relative;
+    left: 250px;
+}
+.music{
+    position: relative;
+    left: -50px;
+    width: 965px;
+    height: 500px;
+}
+#txt3{
+    text-align: center;
+}

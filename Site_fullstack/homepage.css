@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 248, 204);
+    border: solid 1px;
 }
 
 #topo{
@@ -17,21 +18,24 @@ body {
     width: 300px;
     height: 300px;
     position: relative;
-    left: 760px;
+    left: 780px;
     top: -120px;
-    border-radius: 100px 100px 100px 100px;
+    border-radius: 80px 80px 80px 80px;
     border: 2px solid black; 
 }
 #txt1{
     text-align: center;
-    width: 350px;
-    height: 400px;
+    width: 400px;
+    height: 550px;
     padding: 30px;
     margin: 30px;
     position: relative;
     left: 680px;
-    border-style: dashed;
+    border-style: dotted;
+    font-size: 15pt;
 }
+
+
 
 .FEI{
     width: 300px;
@@ -50,7 +54,12 @@ body {
 #menu{
     display: block;
     position: relative;
-    left: 860px;
+    left: 810px;
     top: -30px;
     font-size: 15pt;
 }   
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
