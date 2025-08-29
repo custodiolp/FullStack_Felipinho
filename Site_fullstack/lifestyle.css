@@ -1,17 +1,17 @@
 body {
-    background-color: rgb(255, 248, 204);
+    background-color: rgb(94, 215, 252);
     border: solid 1px;
 }
 
 #topo{
-   background-color: bisque;
+   background-color: rgb(74, 137, 153);
 }
 #titulo {
     text-align: center;
     position: relative;
     top: 300px;
     font-size: 40pt;
-    background-color: bisque;
+    background-color: rgb(74, 137, 153);
 }
 #minhafoto {
     width: 300px;
@@ -37,7 +37,7 @@ a{
 
 #txt1{
     position: relative;
-    font-size: 17pt;
+    font-size: 18pt;
     left: 500px;
     top: 100px
 }
@@ -58,7 +58,7 @@ a{
     position: relative;
     left: 550px;
     top: -120px;
-    font-size: 17pt;
+    font-size: 18pt;
 }
 #p1{
     position: relative;
@@ -71,5 +71,20 @@ a{
     height: 500px;
 }
 #txt3{
-    text-align: center;
+   position: relative;
+    font-size: 18pt;
+    left: 500px;
+}
+
+#palmeiras{
+    position: relative;
+    border-radius: 40px 40px;
+    left: -420px;
+    top: -200px;
+}
+#txt4{
+    position: relative;
+    font-size: 18pt;
+    left: 500px;
+    top: -200px;
 }
